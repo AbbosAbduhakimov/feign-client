@@ -1,0 +1,9 @@
+open-exchange-rates:
+    api:
+      appId: 1b49a7dc37424a50b551a83b580d469f
+      baseCurrency: USD
+giphy:
+  api:
+    app_key: 0BCZD2Pcjc4qXpxxl9vOL1PVgvz94swk
+    richTag: rich
+    brokeTag: broke
